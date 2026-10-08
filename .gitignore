@@ -1,0 +1,15 @@
+*.jpg
+*.pkl
+*.md
+*.idea
+*.xml
+*.iml
+.idea/
+*.db
+*.sqlite
+
+# Bytecode-filer från Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
